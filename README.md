@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+project created with react native for learning :)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
